@@ -5,6 +5,7 @@
 - 🎓 I'm pursuing my Bachelor's in technology in Computer Science & Engineering at PSIT. 
 - 💻 I'm passionate about learning Machine Learning, Deep Learning and Open CV.
 - 🔭 I’m currently working on Flutter projects.
+- 🤔 I’m looking for help with Documentation
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 📫 How to reach me: iamprateek22@gmail.com
 - 😄 Pronouns: He/His
@@ -78,3 +79,5 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />
 </a>
 <br />
+
+### Show some ❤️ by starring some of the repositories!
