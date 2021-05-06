@@ -2,10 +2,10 @@
 # Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Prateek!
 
 ### About Me 🚀
-- 🎓 I'm a coding enthusiast & pursuing my B.Tech in Computer Science & Engineering at PSIT. 
-- 💻 I'm passionate about Machine Learning, Deep Learning and Open CV.
+- 🎓 I'm pursuing my Bachelor's in technology in Computer Science & Engineering at PSIT. 
+- 💻 I'm passionate about learning Machine Learning, Deep Learning and Open CV.
 - 🔭 I’m currently working on Flutter projects.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 📫 How to reach me: iamprateek22@gmail.com
 - 😄 Pronouns: He/His
 
