@@ -1,6 +1,8 @@
 
 # Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Prateek!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-code-22" alt="prateek-code-22" /> </p>
+
 ### About Me 🚀
 - 🎓 I'm pursuing my Bachelor's in technology in Computer Science & Engineering at PSIT. 
 - 💻 I'm passionate about learning Machine Learning, Deep Learning and Open CV.
@@ -52,34 +54,31 @@
 </details>
 
 
-### :handshake: **Let's Connect**
-
+### :handshake: Let's Connect
+<div align="center">
 <a href="mailto:iamprateek22@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/prateek-singh-b221651aa/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-
 <a href="https://www.instagram.com/_prateek._.singh_/">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>  
-
 <a href="https://www.facebook.com/profile.php?id=100006002320320">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>  
-
 <a href="https://www.quora.com/profile/Prateek-Singh-896">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg"  />
 </a>
-
 <a href="https://medium.com/@iamprateek22">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  />
 </a>
 <a href="https://stackoverflow.com/users/14714610/prateek-singh">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />
 </a>
+</div>
+
 <br />
 
 ### Show some ❤️ by starring some of the repositories!
