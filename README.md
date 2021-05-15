@@ -12,6 +12,8 @@
 - 📫 How to reach me: iamprateek22@gmail.com
 - 😄 Pronouns: He/His
 
+---
+
 ### Languages and Tools:
   </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> 
@@ -24,6 +26,7 @@
 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="flutter" width="40" height="40"/> </a> 
 
 
+
 ### 💻 My Profiles
 <!--</a><a href="https://codeforces.com/profile/phoneix" target="_blank"> 
  <img src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" alt="codeforces" width="60" height="60"/> -->
@@ -31,6 +34,9 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="hackerearth" width="50" height="50"/> 
 </a> <a href="https://www.hackerrank.com/CS1D202?hr_r=1" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="60" height="60"/> </a></p>
+
+
+---
 
 
 ### Github Stats
@@ -80,5 +86,7 @@
 </div>
 
 <br />
+
+---
 
 ### Show some ❤️ by starring some of the repositories!
