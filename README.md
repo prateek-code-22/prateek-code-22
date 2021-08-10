@@ -13,6 +13,35 @@
 
 ---
 
+
+### :handshake: Let's Connect
+<div align="center">
+<a href="mailto:iamprateek22@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prateek-singh-b221651aa/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://www.instagram.com/_prateek._.singh_/">
+    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>  
+<a href="https://www.facebook.com/profile.php?id=100006002320320">
+    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>  
+<a href="https://www.quora.com/profile/Prateek-Singh-896">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg"  />
+</a>
+<a href="https://medium.com/@iamprateek22">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  />
+</a>
+<a href="https://stackoverflow.com/users/14714610/prateek-singh">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />
+</a>
+</div>
+
+<br />
+
+
 ### Languages and Tools:
   </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> 
@@ -59,33 +88,8 @@
 </details>
 
 
-### :handshake: Let's Connect
-<div align="center">
-<a href="mailto:iamprateek22@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/prateek-singh-b221651aa/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://www.instagram.com/_prateek._.singh_/">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>  
-<a href="https://www.facebook.com/profile.php?id=100006002320320">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>  
-<a href="https://www.quora.com/profile/Prateek-Singh-896">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg"  />
-</a>
-<a href="https://medium.com/@iamprateek22">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  />
-</a>
-<a href="https://stackoverflow.com/users/14714610/prateek-singh">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />
-</a>
-</div>
 
-<br />
 
 ---
 
-### Show some ❤️ by starring some of the repositories!
+###  Show some ❤️ by starring some of the repositories!
