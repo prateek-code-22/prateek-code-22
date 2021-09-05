@@ -58,10 +58,13 @@
 ### 💻 My Profiles
 <!--</a><a href="https://codeforces.com/profile/phoneix" target="_blank"> 
  <img src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" alt="codeforces" width="60" height="60"/> -->
+</a><a href="https://leetcode.com/iamprateek/" target="_blank"> 
+ <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="Leetcode" width="50" height="50"/> 
 </a><a href="https://www.hackerearth.com/@prateekhbec" target="_blank"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="hackerearth" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="hackerearth" width="50" height="50"/> 
 </a> <a href="https://www.hackerrank.com/CS1D202?hr_r=1" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="60" height="60"/> </a></p>
+
 
 
 ---
