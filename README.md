@@ -6,8 +6,8 @@
 ### About Me 🚀
 - 🎓 I'm pursuing my Bachelor's in technology in Computer Science & Engineering at PSIT. 
 - 💻 I'm passionate about learning Machine Learning, Deep Learning and Open CV.
-- 🔭 I’m currently working on Flutter projects.
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
+- 🔭 I’m currently working on Django projects.
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: iamprateek22@gmail.com
 - 😄 Pronouns: He/His
 
@@ -56,10 +56,23 @@
 
 ### My CP Profiles
 
- </a><a href="https://leetcode.com/iamprateek/" target="_blank"> 
- <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="Leetcode" width="50" height="50"/> 
-</a><a href="https://www.hackerrank.com/CS1D202?hr_r=1" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="60" height="60"/> </a></p>
+ </a>
+  <a href="https://leetcode.com/iamprateek">
+  <img align="left" alt="Leetcode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
+  </a>
+  <a href="https://www.hackerrank.com/CS1D202?hr_r=1" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="45" height="45"/>
+  </a>
+  </a>
+<a href="https://auth.geeksforgeeks.org/user/iamprateek/profile">
+  <img align="left" alt="GeeksForGeeks" width="40px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" />
+</a>
+</a>
+<a href="https://www.codechef.com/users/prateekkk">
+  <img align="left" alt="Codechef" width="40px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />
+</a>
+</a>
 
 ---
 
