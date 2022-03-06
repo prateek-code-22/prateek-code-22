@@ -65,7 +65,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="45" height="45"/>
   </a>
   </a>
-<a href="https://auth.geeksforgeeks.org/user/iamprateek/profile">
+<a href="https://auth.geeksforgeeks.org/user/iamprateek22/practice/">
   <img align="left" alt="GeeksForGeeks" width="40px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" />
 </a>
 </a>
