@@ -1,7 +1,7 @@
 
-## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Prateek!
+## Hey there, I'm Prateek!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-code-22" alt="prateek-code-22" /> </p>
+
 
 ### About Me 🚀
 - 🎓 I'm pursuing my Bachelor's in technology in Computer Science & Engineering at PSIT. 
@@ -90,5 +90,7 @@
 
 
 ---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prateek-code-22" alt="prateek-code-22" /> </p>
+
 
 ### <p align =" center">  Show some ❤️ by adding 🌟 to the repositories! 
