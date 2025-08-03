@@ -13,7 +13,6 @@
 
 ---
 
-
 ### :handshake: Let's Connect
 <div align="center">
 <a href="mailto:iamprateek22@gmail.com">
@@ -75,6 +74,12 @@
 </a>
 
 ---
+
+
+### 📚 Blogs
+
+- 🔧 [Step-by-Step Guide to Setting Up Your First AWS EC2 Instance](https://medium.com/@iamprateek22/step-by-step-guide-to-setting-up-your-first-aws-ec2-instance-618181fc70b6)  
+- 🔐 [How to Connect an EC2 Instance Using SSH](https://medium.com/@iamprateek22/how-to-connect-an-ec2-instance-using-ssh-4365f4b086ad)  
 
 
 ### Github Stats
