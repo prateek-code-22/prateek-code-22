@@ -24,17 +24,8 @@
 <a href="https://www.instagram.com/_prateek._.singh_/">
     <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>  
-<a href="https://www.facebook.com/profile.php?id=100006002320320">
-    <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>  
 <a href="https://www.quora.com/profile/Prateek-Singh-896">
   <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg"  />
-</a>
-<a href="https://medium.com/@iamprateek22">
-  <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  />
-</a>
-<a href="https://stackoverflow.com/users/14714610/prateek-singh">
-  <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />
 </a>
 </div>
 
