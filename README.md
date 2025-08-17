@@ -1,8 +1,5 @@
 
 ## Hey there, I'm Prateek!
-
-
-
 ### About Me 🚀
 - 🎓 I'm pursuing my Bachelor's in technology in Computer Science & Engineering at PSIT. 
 - 💻 I'm passionate about learning Machine Learning, Deep Learning and Open CV.
@@ -10,8 +7,6 @@
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: iamprateek22@gmail.com
 - 😄 Pronouns: He/His
-
----
 
 ### :handshake: Let's Connect
 <div align="center">
@@ -32,40 +27,71 @@
 <br />
 <br />
 
-### Languages and Tools:
-  </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> </a> 
-</a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> <a href="https://nodejs.org" target="_blank"> 
-  <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://api.iconify.design/logos-flask.svg" alt="flask" width="60" height="45"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="flutter" width="45" height="45"/> </a> 
+## 🛠️ Languages & Tools
+
+<div align="left">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" alt="Dart" title="Dart" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu" width="45" height="45"/>
+
+</div>
 
 
-### My CP Profiles
+## ☁️ Cloud & DevOps
 
- </a>
-  <a href="https://leetcode.com/iamprateek">
-  <img align="left" alt="Leetcode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+<div align="left">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Azure" title="Azure" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" title="Ansible" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus" width="45" height="45"/>
+
+</div>
+
+## 🏆 Competitive Programming & DSA
+
+<div align="left">
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/iamprateek" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" title="LeetCode" width="45" height="45"/>
 </a>
-  </a>
-  <a href="https://www.hackerrank.com/CS1D202?hr_r=1" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" width="45" height="45"/>
-  </a>
-  </a>
-<a href="https://auth.geeksforgeeks.org/user/iamprateek22/practice/">
-  <img align="left" alt="GeeksForGeeks" width="40px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" />
+
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/CS1D202?hr_r=1" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" title="HackerRank" width="45" height="45"/>
 </a>
+
+<!-- GeeksforGeeks -->
+<a href="https://auth.geeksforgeeks.org/user/iamprateek22/practice/" target="_blank">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" alt="GeeksforGeeks" title="GeeksforGeeks" width="45" height="45"/>
 </a>
-<a href="https://www.codechef.com/users/prateekkk">
-  <img align="left" alt="Codechef" width="40px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />
+
+<!-- CodeChef -->
+<a href="https://www.codechef.com/users/prateekkk" target="_blank">
+  <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="CodeChef" title="CodeChef" width="45" height="45"/>
 </a>
-</a>
+
+</div>
 
 ---
-
 
 ### 📚 Blogs
 
@@ -77,7 +103,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=prateek-code-22&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-code-22&layout=compact&theme=vision-friendly-dark" width="350" height="250" >
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-code-22&layout=compact&theme=vision-friendly-dark" width="345" height="245" >
 </div>
 <div align="center">
 
