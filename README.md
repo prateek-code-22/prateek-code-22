@@ -1,12 +1,16 @@
 
 ## Hey there, I'm Prateek!
 ### About Me 🚀
-- 🎓 I'm pursuing my Bachelor's in technology in Computer Science & Engineering at PSIT. 
-- 💻 I'm passionate about learning Machine Learning, Deep Learning and Open CV.
-- 🔭 I’m currently working on Django projects.
-- 🌱 I’m currently learning Django
-- 📫 How to reach me: iamprateek22@gmail.com
-- 😄 Pronouns: He/His
+- 💻 I'm passionate about learning Cloud & DevOps.
+- 🔭 I’m currently working on DevOps Projects.
+- 🌱 **I’m currently learning about** 
+  - Cloud infrastructure and services on AWS and Azure
+  - Microservice architectures and distributed systems
+  - Infrastructure as Code (IaC) using Terraform
+  - Configuration management using Ansible
+  - Application containerization with Docker and orchestration via Kubernetes
+  - CI/CD automation using GitHub Actions and Jenkins
+  - Software quality assurance through SonarQube, automated testing, and code analysis
 
 ### :handshake: Let's Connect
 <div align="center">
