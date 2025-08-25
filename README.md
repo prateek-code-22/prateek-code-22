@@ -85,14 +85,12 @@
 
 ### :handshake: Let's Connect
 <div align="left">
-<a href="mailto:iamprateek22@gmail.com">
+<a href="mailto:prateeksingh.sde@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/prateek-singh-b221651aa/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/_prateek._.singh_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <a href="https://medium.com/@iamprateek22">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
