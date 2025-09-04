@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on DevOps Projects.
 - 🌱 **I’m currently learning about** 
   - Cloud infrastructure and services on AWS and Azure
-  - Microservice architectures and distributed systems
+  - Microservice architectures
   - Infrastructure as Code (IaC) using Terraform
   - Configuration management using Ansible
   - Application containerization with Docker and orchestration via Kubernetes
