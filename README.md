@@ -50,7 +50,7 @@
 
 </div>
 
-## 🏆 Competitive Programming & DSA
+## 🏆 Coding Platform
 
 <div align="left">
 
@@ -63,18 +63,17 @@
 <a href="https://www.hackerrank.com/CS1D202?hr_r=1" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" title="HackerRank" width="40" height="40"/>
 </a>
-
 <!-- GeeksforGeeks -->
-<a href="https://auth.geeksforgeeks.org/user/iamprateek22/practice/" target="_blank">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" alt="GeeksforGeeks" title="GeeksforGeeks" width="40" height="40"/>
-</a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/iamprateek22/practice/" target="_blank"> -->
+  <!-- <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" alt="GeeksforGeeks" title="GeeksforGeeks" width="40" height="40"/> -->
+<!-- </a> -->
 
 <!-- CodeChef -->
-<a href="https://www.codechef.com/users/prateekkk" target="_blank">
-  <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="CodeChef" title="CodeChef" width="40" height="40"/>
-</a>
-
-</div>
+<!-- <a href="https://www.codechef.com/users/prateekkk" target="_blank"> -->
+  <!-- <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="CodeChef" title="CodeChef" width="40" height="40"/> -->
+<!-- </a> -->
+ 
+ </div>
 
 ---
 
