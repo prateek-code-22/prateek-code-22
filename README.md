@@ -1,17 +1,12 @@
 
 ## Hey there, I'm Prateek!
 ### About Me 🚀
-- 💻 I'm passionate about learning Cloud & DevOps.
-- 🔭 I’m currently working on DevOps Projects.
+- 💻 I'm passionate about learning Software Engineering.
+- 🔭 I’m currently working on SpringBoot Projects.
 - 🌱 **I’m currently learning about** 
-  - Cloud infrastructure and services on AWS and Azure
+  - Java & SpringBoot
   - Microservice architectures
-  - Infrastructure as Code (IaC) using Terraform
-  - Configuration management using Ansible
-  - Application containerization with Docker and orchestration via Kubernetes
-  - CI/CD automation using GitHub Actions and Jenkins
-  - Software quality assurance through SonarQube, automated testing, and code analysis
-
+  
 ## 🛠️ Languages & Tools
 
 <div align="left">
@@ -23,6 +18,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring Boot" title="Spring Boot" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" alt="Dart" title="Dart" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL" width="40" height="40"/>
@@ -97,15 +93,15 @@
 
 
 ### Github Stats
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=prateek-code-22&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" />
  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-code-22&layout=compact&theme=vision-friendly-dark" width="340" height="240" >
 </div>
-<div align="center">
+<div align="center"> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prateek-code-22&theme=vision-friendly-dark)](https://github.com/prateek-code-22)
-</div>
+<!-- </div> -->
 
 
 ---
